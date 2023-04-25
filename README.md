@@ -7,4 +7,4 @@ The files in this repository can be used to demonstrate provenance of documents 
 
 https://app.rkvst.io/instaproof
 
-Once there, drag and drop the downloaded files onto the dropzone and view the results.
+Once there, drag and drop your chosen downloaded file onto the dropzone and view the results.
