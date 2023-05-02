@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/rkvst/instaproof-samples/main/RKVST_Logo_RGB_280x60px.jpg)
+![Logo](https://github.com/rkvst/instaproof-samples/blob/e1bc70e2d6730ffd71f0d7b21b37a6222834aa5d/RKVST_Logo_CMYK_Large.png)
 
 
 # Instaproof Samples
