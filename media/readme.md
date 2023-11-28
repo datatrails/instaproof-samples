@@ -1,4 +1,4 @@
-![Logo][(https://github.com/datatrails/instaproof-samples/blob/main/DataTrails_Horizontal_Logo_Black.png)
+![Logo](https://github.com/datatrails/instaproof-samples/blob/main/DataTrails_Horizontal_Logo_Black.png)
 
 
 # DataTrails Media!
