@@ -1,4 +1,4 @@
-![Logo](https://github.com/datatrails/instaproof-samples/blob/e1bc70e2d6730ffd71f0d7b21b37a6222834aa5d/RKVST_Logo_CMYK_Large.png)
+![Logo](https://github.com/datatrails/instaproof-samples/blob/main/DataTrails_Horizontal_Logo_Black.png)
 
 
 # Instaproof Samples
